@@ -33,12 +33,12 @@ Please use the reference above if you use this material in your research.
 - [GNU parallel](https://www.gnu.org/software/parallel/)
 
 ## Generating instances
-1. Under `src`, run `cmake .` then `make`
-1. Generate the test instances used in the paper with `./generateinstances.sh`. The instances will be placed in `src/inst`
-1. To generate more instances as you like, see `./generateinstance --help`
+1. Under `src`, run `cmake .` then `make`.
+1. Generate the test instances used in the paper with `./generateinstances.sh`. The instances will be placed in `src/inst`.
+1. To generate more instances as you like, see `./generateinstance --help`.
 
 ## Running the code 
-1. Under `src`, run `cmake .` then `make`
+1. Under `src`, run `cmake .` then `make`.
 1. Run using `./maxdp -i {instance} -t {timeLimit} -o {outFile}`. For more options, see `--help`.
-1. For our implementation of Fernandez et al. (2013)'s solver, under `src/julia` run `./fkn.sh {instance} {timeLimit} {alpha}`
+1. For our implementation of Fernandez et al. (2013)'s solver, under `src/julia` run `./fkn.sh {instance} {timeLimit} {alpha}`.
 
