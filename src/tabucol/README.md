@@ -1,6 +1,6 @@
 # Tabucol code
 
-This graph coloring code is available from http://www.rhydlewis.eu/ and is described in the following book
+This graph coloring code is available from http://www.rhydlewis.eu/ and is described in the following book:
 
 > **A Guide to Graph Colouring: Algorithms and Applications**<br>
 > Rhyd Lewis (2015)<br>
