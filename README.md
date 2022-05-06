@@ -1,8 +1,8 @@
-# Supplementary material for *A hybrid heuristic for the maximum dispersion problem*
+# Supplementary material for *A hybrid heuristic for the Maximum Dispersion Problem*
 
 This repository holds the source code, instance generator and detailed result tables for the following paper:
 
-> **A hybrid heuristic for the maximum dispersion problem**<br>
+> **A hybrid heuristic for the Maximum Dispersion Problem**<br>
 > Alex Gliesch, Marcus Ritt (2021) <br>
 > European Journal of Operational Research 288.3, pp. 721-735 <br>
 > https://doi.org/10.1016/j.ejor.2020.06.011
@@ -11,7 +11,7 @@ This repository holds the source code, instance generator and detailed result ta
 
 ```bibtex
 @article{GlieschRitt/2021,
-  title     = {A hybrid heuristic for the maximum dispersion problem},
+  title     = {A hybrid heuristic for the Maximum Dispersion Problem},
   author    = {Gliesch, Alex and Ritt, Marcus},
   journal   = {European Journal of Operational Research},
   volume    = {288},
