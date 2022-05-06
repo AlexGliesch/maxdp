@@ -10,6 +10,6 @@ This graph coloring code is available from http://www.rhydlewis.eu/ and is descr
 The original algorithm is due to 
 
 > **Using tabu search techniques for graph coloring**<br>
-> Alain hertz and Dominique de Werra (1987)<br>
-> Computing 39.4 (1987): 345-351 <br>
+> Alain Hertz and Dominique de Werra (1987)<br>
+> Computing 39.4: 345-351 <br>
 > https://doi.org/10.1007/BF02239976
